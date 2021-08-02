@@ -29,5 +29,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritalincik&theme=tokyonight&repo=Ritaline-bos-altyapi" />
 </a>
 </p>
-
-![Discord Banner 3](https://discordapp.com/users/853338658961358848/widget.png?style=banner3)
