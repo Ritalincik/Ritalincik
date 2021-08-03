@@ -30,3 +30,5 @@
 
 </a>
 </p>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853338658961358848?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/853338658961358848)
