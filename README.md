@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853338658961358848)](https://discord.com/users/853338658961358848)
-
 ![](https://komarev.com/ghpvc/?username=Ritalincik&color=blueviolet)
 <h1 align="center">Hi im Ritaline</h1>
 <p align="center">
@@ -32,3 +30,5 @@
 
 </a>
 </p>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853338658961358848)](https://discord.com/users/853338658961358848)
