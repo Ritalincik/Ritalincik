@@ -31,5 +31,3 @@
 </a>
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853338658961358848)](https://discord.com/users/853338658961358848)
-
