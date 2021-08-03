@@ -27,7 +27,6 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritalincik&layout=compact&show_icons=true&theme=tokyonight&hide_border=true"width="%100" height="150px" />
 <a href="https://github.com/Ritalincik/Ritaline-bos-altyapi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ritalincik&theme=tokyonight&repo=Ritaline-bos-altyapi" />
- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853338658961358848?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/853338658961358848)
 
 </a>
 </p>
