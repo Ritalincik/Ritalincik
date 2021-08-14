@@ -19,7 +19,10 @@
 
 </br>
 
-##
+<h1 align="center">Discord</h1>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/853338658961358848?hideDiscrim=true)](https://discord.com/users/853338658961358848)
+
 <h3 align="left">Git Statistics</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=Ritalincik&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="%100" height="150px" alt="stats" />
